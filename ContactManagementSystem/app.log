@@ -1,0 +1,36 @@
+Jun 26, 2024 5:52:09 PM com.example.view.MainApplication main
+INFO: Application started
+Jun 26, 2024 5:52:09 PM jdk.internal.event.EventHelper logX509CertificateEvent
+FINE: X509Certificate: Alg:SHA256withRSA, Serial:2, Subject:CN=MySQL_Server_8.4.0_Auto_Generated_Server_Certificate, Issuer:CN=MySQL_Server_8.4.0_Auto_Generated_CA_Certificate, Key type:RSA, Length:2048, Cert Id:796551950, Valid from:6/21/24, 3:02 PM, Valid until:6/19/34, 3:02 PM
+Jun 26, 2024 5:52:09 PM jdk.internal.event.EventHelper logX509CertificateEvent
+FINE: X509Certificate: Alg:SHA256withRSA, Serial:1, Subject:CN=MySQL_Server_8.4.0_Auto_Generated_CA_Certificate, Issuer:CN=MySQL_Server_8.4.0_Auto_Generated_CA_Certificate, Key type:RSA, Length:2048, Cert Id:3529335911, Valid from:6/21/24, 3:02 PM, Valid until:6/19/34, 3:02 PM
+Jun 26, 2024 5:52:09 PM jdk.internal.event.EventHelper logTLSHandshakeEvent
+FINE:  TLSHandshake: localhost:3306, TLSv1.3, TLS_AES_256_GCM_SHA384, 796551950
+Jun 26, 2024 5:52:09 PM com.example.dao.ContactDAOImpl clearAllContacts
+INFO: All contacts deleted successfully.
+Jun 26, 2024 5:52:09 PM com.example.dao.ContactDAOImpl addContact
+WARNING: Invalid phone format: +123456789
+Jun 26, 2024 5:52:09 PM com.example.dao.ContactDAOImpl addContact
+WARNING: Invalid phone format: +223456789
+Jun 26, 2024 5:52:09 PM com.example.dao.ContactDAOImpl addContact
+WARNING: Invalid phone format: +323456789
+Jun 26, 2024 5:52:09 PM jdk.internal.event.EventHelper logX509CertificateEvent
+FINE: X509Certificate: Alg:SHA256withRSA, Serial:2, Subject:CN=MySQL_Server_8.4.0_Auto_Generated_Server_Certificate, Issuer:CN=MySQL_Server_8.4.0_Auto_Generated_CA_Certificate, Key type:RSA, Length:2048, Cert Id:796551950, Valid from:6/21/24, 3:02 PM, Valid until:6/19/34, 3:02 PM
+Jun 26, 2024 5:52:09 PM jdk.internal.event.EventHelper logX509CertificateEvent
+FINE: X509Certificate: Alg:SHA256withRSA, Serial:1, Subject:CN=MySQL_Server_8.4.0_Auto_Generated_CA_Certificate, Issuer:CN=MySQL_Server_8.4.0_Auto_Generated_CA_Certificate, Key type:RSA, Length:2048, Cert Id:3529335911, Valid from:6/21/24, 3:02 PM, Valid until:6/19/34, 3:02 PM
+Jun 26, 2024 5:52:09 PM jdk.internal.event.EventHelper logTLSHandshakeEvent
+FINE:  TLSHandshake: localhost:3306, TLSv1.3, TLS_AES_256_GCM_SHA384, 796551950
+Jun 26, 2024 5:52:09 PM com.example.dao.ContactDAOImpl getAllContacts
+INFO: Attempting to retrieve all contacts
+Jun 26, 2024 5:52:09 PM jdk.internal.event.EventHelper logX509CertificateEvent
+FINE: X509Certificate: Alg:SHA256withRSA, Serial:2, Subject:CN=MySQL_Server_8.4.0_Auto_Generated_Server_Certificate, Issuer:CN=MySQL_Server_8.4.0_Auto_Generated_CA_Certificate, Key type:RSA, Length:2048, Cert Id:796551950, Valid from:6/21/24, 3:02 PM, Valid until:6/19/34, 3:02 PM
+Jun 26, 2024 5:52:09 PM jdk.internal.event.EventHelper logX509CertificateEvent
+FINE: X509Certificate: Alg:SHA256withRSA, Serial:1, Subject:CN=MySQL_Server_8.4.0_Auto_Generated_CA_Certificate, Issuer:CN=MySQL_Server_8.4.0_Auto_Generated_CA_Certificate, Key type:RSA, Length:2048, Cert Id:3529335911, Valid from:6/21/24, 3:02 PM, Valid until:6/19/34, 3:02 PM
+Jun 26, 2024 5:52:09 PM jdk.internal.event.EventHelper logTLSHandshakeEvent
+FINE:  TLSHandshake: localhost:3306, TLSv1.3, TLS_AES_256_GCM_SHA384, 796551950
+Jun 26, 2024 5:52:09 PM jdk.internal.event.EventHelper logX509CertificateEvent
+FINE: X509Certificate: Alg:SHA256withRSA, Serial:2, Subject:CN=MySQL_Server_8.4.0_Auto_Generated_Server_Certificate, Issuer:CN=MySQL_Server_8.4.0_Auto_Generated_CA_Certificate, Key type:RSA, Length:2048, Cert Id:796551950, Valid from:6/21/24, 3:02 PM, Valid until:6/19/34, 3:02 PM
+Jun 26, 2024 5:52:09 PM jdk.internal.event.EventHelper logX509CertificateEvent
+FINE: X509Certificate: Alg:SHA256withRSA, Serial:1, Subject:CN=MySQL_Server_8.4.0_Auto_Generated_CA_Certificate, Issuer:CN=MySQL_Server_8.4.0_Auto_Generated_CA_Certificate, Key type:RSA, Length:2048, Cert Id:3529335911, Valid from:6/21/24, 3:02 PM, Valid until:6/19/34, 3:02 PM
+Jun 26, 2024 5:52:09 PM jdk.internal.event.EventHelper logTLSHandshakeEvent
+FINE:  TLSHandshake: localhost:3306, TLSv1.3, TLS_AES_256_GCM_SHA384, 796551950
