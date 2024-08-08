@@ -22,9 +22,9 @@ import java.sql.SQLException;
 public class DatabaseUtil {
     
     // Database connection details
-    private static final String URL = "jdbc:mysql://localhost:3306/contact_db";
-    private static final String USER = "root";  // Database username
-    private static final String PASSWORD = "wqx0*HGJ";  // Database password
+    private static final String URL = "jdbc:mysql://localhost:****/****";// server URL
+    private static final String USER = "username";  // Database username
+    private static final String PASSWORD = "password";  // Database password
     
     /**
      * Establishes and returns a connection to the database.
