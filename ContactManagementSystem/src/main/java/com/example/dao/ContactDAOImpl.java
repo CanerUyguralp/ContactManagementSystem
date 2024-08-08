@@ -28,9 +28,9 @@ public class ContactDAOImpl implements ContactDAO {
     private static final Logger LOGGER = Logger.getLogger(ContactDAOImpl.class.getName());
     
     // Database connection details
-    private static final String URL = "jdbc:mysql://localhost:3306/contact_db";
-    private static final String USER = "root";
-    private static final String PASSWORD = "wqx0*HGJ";
+    private static final String URL = "jdbc:mysql://localhost:****/****";// server URL
+    private static final String USER = "username";//MySQL server username
+    private static final String PASSWORD = "password";//MySQL server password
 
     // SQL queries
     private static final String SQL_FIND_ALL = "SELECT * FROM contacts";
